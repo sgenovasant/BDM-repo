@@ -1,0 +1,2 @@
+
+docker-compose exec spark-master spark-submit APP/app3.py 
